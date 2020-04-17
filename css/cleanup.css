@@ -7,4 +7,7 @@
     div#wall div#tag-3.slick, .wicked{
   display: none;
 }
+#wall .parent #tag-4 {
+  display: none;
+}
     /* write your override styles here */
