@@ -10,4 +10,7 @@
 #wall .parent #tag-4 {
   display: none;
 }
+body.gorgias-loaded div#wall .parent #tag-5.slick{
+  display:none;
+}
     /* write your override styles here */
