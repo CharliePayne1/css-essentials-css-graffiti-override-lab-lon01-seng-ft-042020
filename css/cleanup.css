@@ -4,7 +4,7 @@
     .gorgias-loaded #wall #tag-2 {
       display: none;
     }
-    .gorgias-loaded #wall #tag-3 {
+    .gorgias-loaded #wall #tag-3 .slick{
       display: none;
     }
     /* write your override styles here */
